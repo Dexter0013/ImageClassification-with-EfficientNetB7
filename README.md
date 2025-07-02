@@ -1,4 +1,4 @@
-# ImageClassification-with-EfficientNetB7 and Streamlit
+# ImageClassification-with-EfficientNetB7 and Streamlit UI
 A simple and interactive Streamlit web app that performs image classification using the EfficientNetB7 model pre-trained on the ImageNet dataset.
 Upload any image and see the top-3 predictions with confidence scores!
 
